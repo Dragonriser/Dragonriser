@@ -20,3 +20,7 @@ Here are some things to know about me
 - 📫 My thoughts : ... 👇
 
 <"https://th.bing.com/th/id/OIP.qKaCxCB-1TTJlKn42XGqjAHaEK?pid=Api&rs=1"/>
+If you are new and want to know how this is done(the github about me), simply follow laterr these links:
+
+http://www.christinakopecky.com/
+https://careerkarma.com/blog/github-profile-readme/
