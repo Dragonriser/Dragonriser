@@ -1,11 +1,12 @@
 
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
+<img src="https://museum.stanford.edu/sites/default/files/images/2020-05/lfh-web-header-1200w.png"/>
  
 ### Hi there 👋, 
 <!-- 
 []: # **🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. <br>
 []: # **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Functional Programming ](link)<br>
- 
+ -->
+
 Here are some things to know about me
  
 - 🔭 I'm currently working on ... a lot
@@ -16,5 +17,6 @@ Here are some things to know about me
 - 📫 How to reach me: ... not sure
 - 😄 Pronouns: ...He/Him/His <br>
 - ⚡ Fun fact: ... You are thinking "He is weird."
--->
+- 📫 My thoughts : ... 👇
 
+<"https://th.bing.com/th/id/OIP.qKaCxCB-1TTJlKn42XGqjAHaEK?pid=Api&rs=1"/>
