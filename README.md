@@ -19,9 +19,9 @@ Here are some things to know about me
 - ⚡ Fun fact: ... You are thinking "He is weird."
 - 💭 My thoughts : ... 👇
 
-<"https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Fpng%2FfmQXAmZU%2Fone-punch-man-png&psig=AOvVaw2Lpm564mf2ygWBMmIflSFv&ust=1610892059367000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjAkN3OoO4CFQAAAAAdAAAAABAD"/>
+<"https://cdn.imgbin.com/7/12/5/imgbin-one-punch-man-saitama-ok-saitama-cartoon-TbpgeFLsyLXkj5P7qmqziDGd4.jpg/>
 
 <p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
 
-[The portfolio of the author](http://www.christinakopecky.com/)
-https://careerkarma.com/blog/github-profile-readme/
+[]: #[The portfolio of the author](http://www.christinakopecky.com/)
+[]: #https://careerkarma.com/blog/github-profile-readme/
