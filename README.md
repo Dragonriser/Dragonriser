@@ -19,7 +19,7 @@ Here are some things to know about me
 - ⚡ Fun fact: ... You are thinking "He is weird."
 - 💭 My thoughts : ... 👇
 
-[https://google.com/result_that_was_given_by_Dragonriser](https://cdn.imgbin.com/7/12/5/imgbin-one-punch-man-saitama-ok-saitama-cartoon-TbpgeFLsyLXkj5P7qmqziDGd4.jpg/)
+[https://google.com/search?result_that_was_given_by_Dragonriser_on_his_GitHub_profile](https://cdn.imgbin.com/7/12/5/imgbin-one-punch-man-saitama-ok-saitama-cartoon-TbpgeFLsyLXkj5P7qmqziDGd4.jpg)
 
 <p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
 <!-- 
