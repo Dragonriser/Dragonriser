@@ -19,7 +19,7 @@ Here are some things to know about me
 - ⚡ Fun fact: ... You are thinking "He is weird."
 - 💭 My thoughts : ... 👇
 
-<"https://th.bing.com/th/id/OIP.qKaCxCB-1TTJlKn42XGqjAHaEK?pid=Api&rs=1"/>
+<"https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Fpng%2FfmQXAmZU%2Fone-punch-man-png&psig=AOvVaw2Lpm564mf2ygWBMmIflSFv&ust=1610892059367000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjAkN3OoO4CFQAAAAAdAAAAABAD"/>
 
 <p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
 
