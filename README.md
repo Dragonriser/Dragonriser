@@ -17,10 +17,11 @@ Here are some things to know about me
 - 📫 How to reach me: ... not sure
 - 😄 Pronouns: ...He/Him/His <br>
 - ⚡ Fun fact: ... You are thinking "He is weird."
-- 📫 My thoughts : ... 👇
+- 💭 My thoughts : ... 👇
 
 <"https://th.bing.com/th/id/OIP.qKaCxCB-1TTJlKn42XGqjAHaEK?pid=Api&rs=1"/>
-If you are new and want to know how this is done(the github about me), simply follow laterr these links:
 
-http://www.christinakopecky.com/
+<p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
+
+[The portfolio of the author](http://www.christinakopecky.com/)
 https://careerkarma.com/blog/github-profile-readme/
