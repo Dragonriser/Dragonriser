@@ -8,15 +8,17 @@
  -->
 
 Here are some things to know about me
- 
-- 🔭 I'm currently working on ... a lot
+- 😄 Pronouns: ...He/Him/His <br> 
+- 🔭 I'm currently working on ... things that teach students and developers new-to-them technologies. <br>
+- 🌏 Location : A planet in the Solar System for years to come <br> presumably
+
 - 🌱 I'm currently learning ... a lot
 - 👯 I'm looking to collaborate on ... a lot
 - 🤔 I'm looking for help with ... a lot 
-- 💬 Ask me about ... a lot
-- 📫 How to reach me: ... not sure
-- 😄 Pronouns: ...He/Him/His <br>
-- ⚡ Fun fact: ... You are thinking "He is weird."
+- 💬 Ask me about ... something <b><i> non-technical </b></i> cause you are better than me at most technologies 
+- 📫 How to reach me: ... not sure (unless you know me already)
+
+- ⚡ Fun fact: ... You are thinking "He is weird.weird"
 - 💭 My thoughts : ... 👇
 
 [https://google.com/search?result_that_was_given_by_Dragonriser_on_his_GitHub_profile](https://cdn.imgbin.com/7/12/5/imgbin-one-punch-man-saitama-ok-saitama-cartoon-TbpgeFLsyLXkj5P7qmqziDGd4.jpg)
