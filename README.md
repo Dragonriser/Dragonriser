@@ -28,7 +28,7 @@ Some numbers which doesn't make sense
 - ⚡ Fun fact: ... You are thinking "He is weird. <i>WEIRDLY</i> "<br>
 - 💭 My thoughts : ... 👇
 <br>
-[The answer Dragonriser gave running away from penguins in Antartica riding a Camel with 💻 in hands](https://anime.everyeye.it/public/immagini/01042019/one-punch-man_notizia.png)
+[The answer Dragonriser gave running away from penguins in Antartica riding a camel](https://anime.everyeye.it/public/immagini/01042019/one-punch-man_notizia.png)
 <!-- 
 <p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
 []:  #[The portfolio of the author](http://www.christinakopecky.com/)
