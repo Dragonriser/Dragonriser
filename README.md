@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...He/Him/His <br> 
 - 🔭 I'm currently working on ... things that teach students and developers new-to-them technologies. <br>
 - 🌏 Location : A planet in the Solar System for years to come  <b>presumably</b>
-<br>
+
 - 🌱 I'm currently learning ... a lot<br>
 - 👯 I'm looking to collaborate on ... a lot<br>
 - 🤔 I'm looking for help with ... a lot <br>
@@ -28,7 +28,7 @@ Some numbers which doesn't make sense
 - ⚡ Fun fact: ... You are thinking "He is weird. <i>WEIRDLY</i> "<br>
 - 💭 My thoughts : ... 👇
 <br>
-[https://google.com/q?the_answer_Dragonriser_gave_running_away_from_penguins_riding_a_camel_💻_in_his_hand](https://anime.everyeye.it/public/immagini/01042019/one-punch-man_notizia.png)
+[the_answer_Dragonriser_gave_running_away_from_penguins_riding_a_camel_💻_in_his_hand](https://anime.everyeye.it/public/immagini/01042019/one-punch-man_notizia.png)
 <!-- 
 <p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
 []:  #[The portfolio of the author](http://www.christinakopecky.com/)
