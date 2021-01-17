@@ -2,7 +2,7 @@
 <img src="https://museum.stanford.edu/sites/default/files/images/2020-05/lfh-web-header-1200w.png"/>
  
 ## Hi there 👋, I am Dragonriser
-<a target="_blank" rel="noopener noreferrer" href=""><img align="right" src="sailor_otter_idle.gif" width="230" style="max-width:100%;"></a>
+<a rel="noopener noreferrer" href=""> <img align="right" src="sailor_otter_idle.gif" width="230" style="max-width:100%;"></a>
 <!-- 
 []: # **🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. <br>
 []: # **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Functional Programming ](link)<br>
