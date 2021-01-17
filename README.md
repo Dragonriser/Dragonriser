@@ -17,9 +17,9 @@
 - 🌏 Location : A planet in the Solar System for years to come  <b>presumably</b>
 <br>
 <br>
-- 🌱 I'm currently learning ... a lot
-- 👯 I'm looking to collaborate on ... a lot
-- 🤔 I'm looking for help with ... a lot 
+- 🌱 I'm currently learning ... a lot<br>
+- 👯 I'm looking to collaborate on ... a lot<br>
+- 🤔 I'm looking for help with ... a lot <br>
 <br>
 ## Some numbers which doesn't make sense
 <img alt="Some numbers which doesn't make sense to me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonriser&layout=compact&" style="max-width:100%;">
@@ -30,7 +30,7 @@
 - ⚡ Fun fact: ... You are thinking "He is weird. <i>WEIRDLY</i> "<br>
 - 💭 My thoughts : ... 👇
 <br>
-[https://google.com/q?the_answer_that_was_given_by_Dragonriser_,running_away_from_penguins,_riding_a_camel,_💻_in_his_hand](https://anime.everyeye.it/public/immagini/01042019/one-punch-man_notizia.png)
+[https://google.com/q?the_answer_Dragonriser_gave,running_away_from_penguins,_riding_a_camel,_💻_in_his_hand](https://anime.everyeye.it/public/immagini/01042019/one-punch-man_notizia.png)
 <!-- 
 <p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
 []:  #[The portfolio of the author](http://www.christinakopecky.com/)
