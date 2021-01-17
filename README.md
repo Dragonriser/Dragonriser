@@ -3,7 +3,7 @@
  
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, 
 
-## I am Dragonriser [He/Him] <img align="right" src="https://sbhacks.com/images/sailor_otter_idle.gif" ></a>
+## I am Dragonriser [He/Him] <img align="right" src="https://sbhacks.com/images/sailor_otter_idle.gif" >
 
 <!-- 
 []: # **🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. <br>
@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...He/Him/His <br> 
 - 🔭 I'm currently working on ... things that teach students and developers new-to-them technologies. <br>
 - 🌏 Location : A planet in the Solar System for years to come  <b>presumably</b>
-<img src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" align="centre" width="50" height="50">
+<img src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" align="center" width="50" height="50">
 <br>
 <br>
 
