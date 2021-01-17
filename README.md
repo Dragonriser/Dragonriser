@@ -14,7 +14,7 @@
 
 - 😄 Pronouns: ...He/Him/His <br> 
 - 🔭 I'm currently working on ... things that teach students and developers new-to-them technologies. <br>
-- <img <img src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" align="middle" width="50" height="50"> Location : A planet in the Solar System for years to come  <b>presumably</b>
+- <img src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" align="middle" width="50" height="50"> Location : A planet in the Solar System for years to come  <b>presumably</b>
 
 <br>
 <br>
@@ -23,7 +23,7 @@
 - 👯 I'm looking to collaborate on ... a lot
 - 🤔 I'm looking for help with ... a lot 
 <br>
-## Some numbers which doesn't make sense to me
+## Some numbers which doesn't make sense
 <img alt="Some numbers which doesn't make sense to me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonriser&layout=compact&" style="max-width:100%;">
 
 - 💬 Ask me about ... something <b><i> non-technical </b></i> cause you are better than me at most technologies 
