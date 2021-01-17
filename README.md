@@ -5,8 +5,6 @@
 
 ## I am Dragonriser [He/Him] <img align="right" src="https://sbhacks.com/images/sailor_otter_idle.gif" ></a>
 
-<img src="https://www.hackthenortheast.com/static/media/Will.3b2af3bb.png" style="max-width:20%;">
-
 <!-- 
 []: # **🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. <br>
 []: # **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Functional Programming ](link)<br>
@@ -14,7 +12,7 @@
 
 ### Here are some things to know about me
 
-- 😄 Pronouns: ...He/Him/His <br> 
+- 😄 Pronouns: ...He/Him/His <img align="right" src="https://www.hackthenortheast.com/static/media/Will.3b2af3bb.png" width="200" height="200";"> <br> 
 - 🔭 I'm currently working on ... things that teach students and developers new-to-them technologies. <br>
 - 🌏 Location : A planet in the Solar System for years to come  <b>presumably</b>
 <img src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" style="max-width:50%;">
