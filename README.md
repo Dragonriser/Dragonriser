@@ -3,7 +3,7 @@
  
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, 
 ## I am Dragonriser [He/Him]
-<img src="https://www.hackthenortheast.com/static/media/Will.3b2af3bb.png" alt="Will" class="jss82"  style="max-width:60%;>
+<img src="https://www.hackthenortheast.com/static/media/Will.3b2af3bb.png" alt="Will" class="jss82"  style="max-width:60%;">
 <img align="right" src="https://sbhacks.com/images/sailor_otter_idle.gif" ></a>
 <!-- 
 []: # **🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. <br>
