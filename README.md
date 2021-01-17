@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...He/Him/His <img align="right" src="https://www.hackthenortheast.com/static/media/Will.3b2af3bb.png" width="200" height="200";"> <br> 
 - 🔭 I'm currently working on ... things that teach students and developers new-to-them technologies. <br>
 - 🌏 Location : A planet in the Solar System for years to come  <b>presumably</b>
-<img src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" style="max-width:50%;">
+<img align="right" src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" width="50" height="50";">
 <br>
 <br>
 
