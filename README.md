@@ -1,9 +1,9 @@
 
-<img src="https://museum.stanford.edu/sites/default/files/images/2020-05/lfh-web-header-1200w.png"/>
+<img src="https://museum.stanford.edu/sites/default/files/images/2020-05/lfh-web-header-1200w.png">
  
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, 
 ## I am Dragonriser [He/Him]
-<img src="https://www.hackthenortheast.com/static/media/Will.3b2af3bb.png" alt="Will" class="jss82">
+<img src="https://www.hackthenortheast.com/static/media/Will.3b2af3bb.png" alt="Will" class="jss82"  style="max-width:60%;>
 <img align="right" src="https://sbhacks.com/images/sailor_otter_idle.gif" ></a>
 <!-- 
 []: # **🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. <br>
@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...He/Him/His <br> 
 - 🔭 I'm currently working on ... things that teach students and developers new-to-them technologies. <br>
 - 🌏 Location : A planet in the Solar System for years to come  <b>presumably</b>
-<img src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" class="jss8 jss9" style="transform: translate3d(0px, 0px, 0px) rotate(73.04deg);">
+<img src="https://www.hackthenortheast.com/static/media/RedPlanet.31352b6f.svg" class="jss8 jss9" style="transform: translate3d(0px, 0px, 0px) rotate(73.04deg);  style="max-width:50%;">
 <br>
 <br>
 
