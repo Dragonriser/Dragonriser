@@ -30,7 +30,7 @@
 - ⚡ Fun fact: ... You are thinking "He is weird. <i>WEIRDLY</i> "<br>
 - 💭 My thoughts : ... 👇
 <br>
-[https://google.com/search?the_answer_that_was_given_by_Dragonriser_while_he_was_running_away_from_penguins_riding_a_camel_with_💻_in_his_hand ](https://anime.everyeye.it/public/immagini/01042019/one-punch-man_notizia.png)
+[https://google.com/search?the_answer_that_was_given_by_Dragonriser_while_he_was_running_away_from_penguins_riding_a_camel_with_💻_in_his_hand](https://anime.everyeye.it/public/immagini/01042019/one-punch-man_notizia.png)
 <!-- 
 <p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
 []:  #[The portfolio of the author](http://www.christinakopecky.com/)
