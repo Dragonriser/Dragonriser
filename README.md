@@ -28,7 +28,7 @@ Some numbers which doesn't make sense
 - ⚡ Fun fact: ... You are thinking "He is weird. <i>WEIRDLY</i> "<br>
 - 💭 My thoughts : ... 👇
 <br>
-<b>[I was running away from penguins in Antartica riding a camel](https://github.com/Dragonriser/Dragonriser/blob/main/The%20Answer.png)<b>
+<b>[I was running away from penguins in Antartica riding a camel](https://raw.githubusercontent.com/Dragonriser/Dragonriser/main/The%20Answer.png)<b>
 <!-- 
 <p> If you are new and want to know how this is done(the github about me), simply follow the later of these links:</p> 
 []:  #[The portfolio of the author](http://www.christinakopecky.com/)
