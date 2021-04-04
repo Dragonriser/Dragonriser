@@ -19,7 +19,7 @@
 - 👯 I'm looking to collaborate on ... a lot<br>
 - 🤔 I'm looking for help with ... a lot <br>
 <br>
-## Some numbers which doesn't make sense
+### Some numbers which doesn't make sense
 <img alt="Some numbers which doesn't make sense to me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonriser&layout=compact&" style="max-width:100%;">
 
 - 💬 Ask me about ... something <b><i> non-technical </b></i> cause you are better than me at most technologies 
